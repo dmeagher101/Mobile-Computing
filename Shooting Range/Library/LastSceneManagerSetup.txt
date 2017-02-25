@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Shooting Range/Scenes/Movement Test.unity
+  isLoaded: 1
+  isActive: 1

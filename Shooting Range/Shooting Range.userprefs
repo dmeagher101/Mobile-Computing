@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\PlayerMover.cs">
+    <Files>
+      <File FileName="Assets\Shooting Range\Scripts\TargetController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shooting Range\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shooting Range\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shooting Range\Scripts\Raycaster.cs" Line="17" Column="90" />
+      <File FileName="Assets\Shooting Range\Scripts\Reticle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shooting Range\Scripts\SingletonMonoBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shooting Range\Scripts\ButtonManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerMover.cs" Line="7" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
